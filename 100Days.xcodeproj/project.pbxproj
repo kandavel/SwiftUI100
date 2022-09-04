@@ -14,6 +14,7 @@
 		CCCBB88328B281F400726DCD /* _00DaysTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCBB88228B281F400726DCD /* _00DaysTests.swift */; };
 		CCCBB88D28B281F400726DCD /* _00DaysUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCBB88C28B281F400726DCD /* _00DaysUITests.swift */; };
 		CCCBB88F28B281F400726DCD /* _00DaysUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCBB88E28B281F400726DCD /* _00DaysUITestsLaunchTests.swift */; };
+		CCE4484128C3B87F00E7C839 /* UnitConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE4484028C3B87F00E7C839 /* UnitConversion.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		CCCBB88828B281F400726DCD /* 100DaysUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 100DaysUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCCBB88C28B281F400726DCD /* _00DaysUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _00DaysUITests.swift; sourceTree = "<group>"; };
 		CCCBB88E28B281F400726DCD /* _00DaysUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _00DaysUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CCE4484028C3B87F00E7C839 /* UnitConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitConversion.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				CCCBB87128B281F200726DCD /* _00DaysApp.swift */,
 				CCCBB87328B281F200726DCD /* ContentView.swift */,
+				CCE4484028C3B87F00E7C839 /* UnitConversion.swift */,
 				CCCBB87528B281F400726DCD /* Assets.xcassets */,
 				CCCBB87728B281F400726DCD /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				CCCBB87428B281F200726DCD /* ContentView.swift in Sources */,
 				CCCBB87228B281F200726DCD /* _00DaysApp.swift in Sources */,
+				CCE4484128C3B87F00E7C839 /* UnitConversion.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
