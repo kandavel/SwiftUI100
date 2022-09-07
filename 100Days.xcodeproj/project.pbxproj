@@ -15,6 +15,7 @@
 		CCCBB88D28B281F400726DCD /* _00DaysUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCBB88C28B281F400726DCD /* _00DaysUITests.swift */; };
 		CCCBB88F28B281F400726DCD /* _00DaysUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCBB88E28B281F400726DCD /* _00DaysUITestsLaunchTests.swift */; };
 		CCE4484128C3B87F00E7C839 /* UnitConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE4484028C3B87F00E7C839 /* UnitConversion.swift */; };
+		CCEA721528C844D300AD85C8 /* AlertMessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCEA721428C844D300AD85C8 /* AlertMessageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		CCCBB88C28B281F400726DCD /* _00DaysUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _00DaysUITests.swift; sourceTree = "<group>"; };
 		CCCBB88E28B281F400726DCD /* _00DaysUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _00DaysUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		CCE4484028C3B87F00E7C839 /* UnitConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitConversion.swift; sourceTree = "<group>"; };
+		CCEA721428C844D300AD85C8 /* AlertMessageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertMessageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				CCCBB87128B281F200726DCD /* _00DaysApp.swift */,
 				CCCBB87328B281F200726DCD /* ContentView.swift */,
 				CCE4484028C3B87F00E7C839 /* UnitConversion.swift */,
+				CCEA721428C844D300AD85C8 /* AlertMessageView.swift */,
 				CCCBB87528B281F400726DCD /* Assets.xcassets */,
 				CCCBB87728B281F400726DCD /* Preview Content */,
 			);
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CCCBB87428B281F200726DCD /* ContentView.swift in Sources */,
+				CCEA721528C844D300AD85C8 /* AlertMessageView.swift in Sources */,
 				CCCBB87228B281F200726DCD /* _00DaysApp.swift in Sources */,
 				CCE4484128C3B87F00E7C839 /* UnitConversion.swift in Sources */,
 			);
