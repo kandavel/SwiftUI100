@@ -11,9 +11,10 @@ import SwiftUI
 struct _00DaysApp: App {
     var body: some Scene {
         WindowGroup {
-            AlertMessageView(isAlertPresented: false)
+            //AlertMessageView(isAlertPresented: false)
            // UnitConversion()
            // ContentView()
+            ContryFlag()
         }
     }
 }
