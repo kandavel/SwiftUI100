@@ -14,7 +14,8 @@ struct _00DaysApp: App {
             //AlertMessageView(isAlertPresented: false)
            // UnitConversion()
            // ContentView()
-            ContryFlag()
+           // ContryFlag()
+            Rock_Scissors()
         }
     }
 }
